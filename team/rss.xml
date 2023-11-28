@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Team Members </title>
+    <description>Team Members  Feed</description>
+    <link></link>
+    <pubDate>Thu, 02 Nov 2023 14:00:30 GMT</pubDate>
+    <atom:link href="/team/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Bianca Brück</title>
+            
+            <link>/team/bianca-bruck/</link>
+            <pubDate>Thu, 02 Nov 2023 14:00:30 GMT</pubDate>
+            <guid>/team/bianca-bruck/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>Lirije Ismaili</title>
+            
+            <link>/team/lirije-ismaili/</link>
+            <pubDate>Thu, 02 Nov 2023 14:00:30 GMT</pubDate>
+            <guid>/team/lirije-ismaili/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>Cristina Beres</title>
+            
+            <link>/team/cristina-beres/</link>
+            <pubDate>Thu, 02 Nov 2023 14:00:30 GMT</pubDate>
+            <guid>/team/cristina-beres/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>Meyer Janina</title>
+            
+            <link>/team/meyer-janina/</link>
+            <pubDate>Thu, 02 Nov 2023 14:00:30 GMT</pubDate>
+            <guid>/team/meyer-janina/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>Ilayda Balcik</title>
+            
+            <link>/team/ilayda-balcik/</link>
+            <pubDate>Thu, 02 Nov 2023 14:00:30 GMT</pubDate>
+            <guid>/team/ilayda-balcik/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>Laura Nuhiu</title>
+            
+            <link>/team/laura-nuhiu/</link>
+            <pubDate>Thu, 02 Nov 2023 14:00:30 GMT</pubDate>
+            <guid>/team/laura-nuhiu/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>Melanie Maulbetsch</title>
+            
+            <link>/team/melanie-maulbetsch/</link>
+            <pubDate>Thu, 02 Nov 2023 14:00:30 GMT</pubDate>
+            <guid>/team/melanie-maulbetsch/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>Jessica Cuda</title>
+            
+            <link>/team/jessica-cuda/</link>
+            <pubDate>Thu, 02 Nov 2023 14:00:30 GMT</pubDate>
+            <guid>/team/jessica-cuda/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>Daniela Rosca</title>
+            
+            <link>/team/daniela-rosca/</link>
+            <pubDate>Thu, 02 Nov 2023 14:00:30 GMT</pubDate>
+            <guid>/team/daniela-rosca/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>Dzenita Dekic</title>
+            
+            <link>/team/dzenita-dekic/</link>
+            <pubDate>Thu, 02 Nov 2023 14:00:30 GMT</pubDate>
+            <guid>/team/dzenita-dekic/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+  </channel>
+</rss>
